@@ -1,2 +1,3 @@
 # venus
-Program for moving robotic explorers around a grid-like landing area
+Toy program for moving robotic explorers around a grid-like landing area.
+Written in scala.
